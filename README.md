@@ -8,3 +8,7 @@ https://www.itexams.com/info/PL-300
 
 3. **Passnexam (360 Ques)**\
 https://www.passnexam.com/microsoft/pl-300
+
+## Link to Exam Registration
+
+https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-300/
