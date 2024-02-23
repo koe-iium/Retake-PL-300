@@ -1,4 +1,4 @@
-## Study Resources
+## Web Based Study Resources
 
 1. **Examtopics (250 Ques)**\
 https://www.examtopics.com/exams/microsoft/pl-300/
