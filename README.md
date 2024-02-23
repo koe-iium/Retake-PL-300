@@ -11,6 +11,7 @@ https://www.passnexam.com/microsoft/pl-300
 
 ## Link to Exam Registration
 
-https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-300/
+https://learn.microsoft.com/en-us/credentials/certifications/exams/pl-300/ \\
 
-![Step 1](step1.png)
+![Step 1](step1.png)\\
+![Step 2](step2.png)
